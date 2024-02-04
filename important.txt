@@ -1,0 +1,25 @@
+no virtaul environment
+
+D:\>python --version
+Python 3.11.1
+
+D:\>pip show tensorflow
+Name: tensorflow
+Version: 2.15.0
+
+
+D:\>pip show pandas
+Name: pandas
+Version: 2.2.0
+
+D:\>pip show numpy
+Name: numpy
+Version: 1.26.1
+
+D:\>pip show flask
+Name: Flask
+Version: 3.0.2
+
+
+
+
